@@ -3,12 +3,11 @@
 This is a simple resume webpage created using basic **HTML** and **CSS**.  
 It shows my introduction, education, skills, projects, hobbies, and declaration.
 
----
+
 
 ## 👩‍🎓 About Me
 
 - **Name**: Rohitha Lakshmi Dantala  
-- **Email**: rohithadantala08@gmail.com  
 - **Course**: B.Tech 3rd Year, CSE  
 - **College**: VFSTR  
 - **Place**: Tenali
@@ -21,6 +20,6 @@ It shows my introduction, education, skills, projects, hobbies, and declaration.
 - `style.css` – Design file for styling  
 - `README.md` – This file (project explanation)
 
----
+
 
 
